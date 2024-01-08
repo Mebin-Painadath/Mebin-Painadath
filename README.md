@@ -14,8 +14,48 @@
 <a href="https://linkedin.com/in/mebin-painadath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mebin-painadath" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<h3 align="left">Scripting Languages:</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" hight="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java script" width="40" height="40"/>
+    </a>
+</p>
+    
+<h3 align="left">Cloud and Tools:</h3>
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/3d70cf7e-d978-4863-8ddd-911e5d36bdbc" alt="azure synapse analytics" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/a1c889b4-5e3e-48cc-b21c-7cc1c0ed8ed1" alt="azure data factory" width="40" height="40"/> 
+  </a> 
+  <a href="https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-a-data-warehouse" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/87eee016-0c95-4033-8b83-715e94ad50f0" alt="azure date warehouse" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/6148306e-4882-4fee-b5fc-35a7788165bc" alt="azure sql server" width="60" height="40"/> 
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/databricks/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="azure databricks" width="40" height="40"/> 
+  </a>
+  <a href="https://azure.microsoft.com/en-in/products/hdinsight" target="_blank" rel="noreferrer" style="text-decoration:none"> 
+    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/18a2c10f-9817-4054-bc73-e261dfb7b868" alt="azure hdinsights" width="40" height="40"/> 
+  </a>
+  
+</p>
+
+
+
+<p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://docs.angularjs.org/guide" target="_blank" rel="noreferrer"> 
@@ -52,8 +92,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
