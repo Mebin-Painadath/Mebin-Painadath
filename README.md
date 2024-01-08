@@ -39,7 +39,7 @@
 
 <h3 align="left">Database:</h3>
 
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql sever" width="40" height="40"/>](https://www.microsoft.com/en-us/sql-server) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql sever" width="60" height="60"/>](https://www.microsoft.com/en-us/sql-server) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>](https://www.mysql.com/)
 
 <h3 align="left">CI/CD Pipeline:</h3>
 
@@ -51,7 +51,7 @@
 
 <h3 align="left">Automation Testing:</h3>
 
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>](https://www.selenium.dev) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>](https://www.cypress.io) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/7cdd3e47-e7f1-468b-8ae4-e0c85fc37ddd" alt="testng" width="40" height="40"/>](https://testng.org/doc/documentation-main.html) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>](https://cucumber.io/docs/cucumber/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-icon.svg" alt="saucelabs" width="40" height="40"/>](https://docs.saucelabs.com/overview/)
+[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>](https://www.selenium.dev) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/5969b67d-cd8e-4f30-8cef-2e2030cdb155" alt="cypress" width="40" height="40"/>](https://www.cypress.io) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/ff53397e-e25b-41d0-b54d-8acbea3db736" alt="testng" width="40" height="40"/>](https://testng.org/doc/documentation-main.html) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>](https://cucumber.io/docs/cucumber/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-icon.svg" alt="saucelabs" width="40" height="40"/>](https://docs.saucelabs.com/overview/)
     
 <h3 align="left">Service Virtualization Tool:</h3>
 
