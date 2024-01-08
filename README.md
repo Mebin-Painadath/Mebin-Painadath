@@ -15,43 +15,13 @@
 </p>
 
 <h3 align="left">Scripting Languages:</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" hight="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java script" width="40" height="40"/>
-    </a>
-</p>
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" hight="40"/>](https://www.java.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="java script" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     
 <h3 align="left">Cloud and Tools:</h3>
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/3d70cf7e-d978-4863-8ddd-911e5d36bdbc" alt="azure synapse analytics" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/a1c889b4-5e3e-48cc-b21c-7cc1c0ed8ed1" alt="azure data factory" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-a-data-warehouse" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/87eee016-0c95-4033-8b83-715e94ad50f0" alt="azure date warehouse" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/6148306e-4882-4fee-b5fc-35a7788165bc" alt="azure sql server" width="60" height="40"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/azure/databricks/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="azure databricks" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/en-in/products/hdinsight" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/18a2c10f-9817-4054-bc73-e261dfb7b868" alt="azure hdinsights" width="40" height="40"/> 
-  </a>
-  
-</p>
+
+[<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>](https://learn.microsoft.com/en-us/azure/synapse-analytics/) &nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/3d70cf7e-d978-4863-8ddd-911e5d36bdbc" alt="azure synapse analytics" width="70" height="40"/>](https://azure.microsoft.com/en-in/) &nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/a1c889b4-5e3e-48cc-b21c-7cc1c0ed8ed1" alt="azure data factory" width="40" height="40"/>](https://learn.microsoft.com/en-us/azure/data-factory/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/87eee016-0c95-4033-8b83-715e94ad50f0" alt="azure date warehouse" width="40" height="40"/>](https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-a-data-warehouse) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/6148306e-4882-4fee-b5fc-35a7788165bc" alt="azure sql server" width="60" height="40"/>](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="azure databricks" width="40" height="40"/>](https://learn.microsoft.com/en-us/azure/databricks/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com/Mebin-Painadath/Mebin-Painadath/assets/79633170/9433dd4f-1fa5-4066-a7f9-54701c02c796" alt="azure hdinsights" width="40" height="40"/>](https://azure.microsoft.com/en-in/products/hdinsight)
+
 
 
 
